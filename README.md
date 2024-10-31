@@ -5,7 +5,7 @@ Repositorio creado y desarrollado por una alumna del grupo 102 de la asignatura 
 Sara Meda López
  
 ## Título del proyecto
-Reconocimiento de formas con redes neuronales
+*Reconocimiento de formas con redes neuronales*
 
 ![EMNIST](https://github.com/user-attachments/assets/496396d0-eda5-4f5c-93d5-e994b5a49bd8)
 
@@ -48,13 +48,13 @@ Sensibilidad
 
 ## Tareas a realizar
 Implementar todas las tareas incluidas en el noteBook "Practica2-Enunciado":
-- Tarea 1: Implementación de la función crea_diccionario
-- Tarea 2: Implementación de la función getdataset
-- Tarea 3: Obtener la matriz de confusión para la predicción de 'A's en el conjunto de 'A' y '3' empleando las funciones entrena_perceptron, predice y evalua.
-- Tarea 4: Valoración de resultados repitiendo la creación de grupos de entrenamiento y predicción.
-- Tarea 5: Analizar la matriz de confusión y sus correspondientes métricas para todos los diferentes pares de imágenes de MNIST.
-- Tarea 6: Perceptrón múltiple y nuevos datos de test.
-- Tarea 7: Análisis y conclusiones de los resultados obtenidos para la clasificación de imágenes, tanto con el perceptrón simple como multicapa y comparación con nuevos datos de test.
+- **Tarea 1**: Implementación de la función crea_diccionario
+- **Tarea 2**: Implementación de la función getdataset
+- **Tarea 3**: Obtener la matriz de confusión para la predicción de 'A's en el conjunto de 'A' y '3' empleando las funciones entrena_perceptron, predice y evalua.
+- **Tarea 4**: Valoración de resultados repitiendo la creación de grupos de entrenamiento y predicción.
+- **Tarea 5**: Analizar la matriz de confusión y sus correspondientes métricas para todos los diferentes pares de imágenes de MNIST.
+- **Tarea 6**: Perceptrón múltiple y nuevos datos de test.
+- **Tarea 7**: Análisis y conclusiones de los resultados obtenidos para la clasificación de imágenes, tanto con el perceptrón simple como multicapa y comparación con nuevos datos de test.
   
 Crea los notebooks que necesites para mostrar los resultados solicitados. Todas las funciones implementadas deben encontrarse en un archivo .py y se deben exportar de forma correcta en cada notebook.
 
