@@ -1,1 +1,1 @@
-# Practica_2_Sistemas_Inteligentes
+# Práctica 2 Sistemas Inteligentes
