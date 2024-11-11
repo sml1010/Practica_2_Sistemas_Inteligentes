@@ -1,5 +1,5 @@
 # Práctica 2 Sistemas Inteligentes
-Repositorio creado y desarrollado por una alumna del grupo 102 de la asignatura "Sistemas Inteligentes Aplicados a la Salud" del grado en Ingeniería de la Salud en la Universidad de Burgos. 
+Repositorio creado y desarrollado por una alumna del grupo 102 de la asignatura "Sistemas Inteligentes Aplicados a la Salud" del grado en Ingeniería de la Salud en la Universidad de Burgos.
 
 ## Autor/a
 Sara Meda López
